@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,79 @@
   to {
     transform: rotate(360deg);
   }
+} *
+
+----------------------------*/
+.header{
+  border: 2px solid blue;
+  display: flex;
 }
+.left-side{
+  border: 2px solid red;
+  flex: 1;
+}
+.right-side{
+  border: 2px solid green;
+  flex: 1;
+}
+.left-side-wrapper{
+  padding: 50px;
+}
+.hello{
+  font-size: 30px;
+  font-weight: 400;
+
+}
+.name{
+  font-size: 70px;
+}
+h3{
+  font-size: 40px;
+  font-weight: bold;
+  color: rgb(255, 132, 0);
+}
+
+.title{
+  height: 50px;
+  overflow: hidden;
+}
+.title-items{
+  height: 50px;
+  font-size: 30px;
+  font-weight: bold;
+  color: grey;
+  display: flex;
+  align-items: center;
+}
+h4{
+  height: 50px;
+  font-size: 30px;
+  font-weight: bold;
+  color: grey;
+  
+}
+.title-wrapper{
+  height: 100%;
+  animation: move 10s ease-in-out infinite alternate;
+
+}
+@keyframes move {
+  20%{
+    transform: translateY(-50px);
+  }
+  40%{
+    transform: translateY(-100px);
+  }
+  60%{
+    transform: translateY(-150px);
+  }
+  80%{
+    transform: translateY(-200px);
+  }
+  100%{
+    transform: translateY(-250px);
+  }
+
+}
+
+
