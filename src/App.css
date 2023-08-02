@@ -134,3 +134,42 @@ h4{
   
 }
 
+.about{
+  /* border: 2px solid purple; */
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+.a-left{
+  /* border: 2px solid yellow; */
+  flex: 1;
+  margin-top: 0px;
+  
+
+}
+.a-right{
+  /* border: 2px solid orangered; */
+  flex: 2;
+  margin-top: 0px;
+
+}
+.me{
+  margin: 0 40px 20px;
+}
+.a-card{
+  width: 60%;
+  height: 70vh;
+  border-radius: 30px;
+}
+.a-image{
+  width: 140%;
+  height: 70%;
+  border-radius: 30px;
+  margin: 0 40px;
+
+}
+.a-description{
+  font-size: 24px;
+  font-weight: bold;
+
+}
