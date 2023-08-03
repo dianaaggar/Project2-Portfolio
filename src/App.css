@@ -173,3 +173,105 @@ h4{
   font-weight: bold;
 
 }
+/* --------------Productlist css---------- */
+.prod-list{
+  padding: 50px 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.prod-list-text{
+  width: 65%;
+}
+.prod-list-title{
+  font-size: 50px;
+  font-weight: bold;
+}
+.prod-list-desc{
+  margin: 20px 0px;
+}
+.prod-list-items{
+  display: flex;
+
+}
+
+/* ------------products css---------- */
+.cards{
+  width: 40vh;
+  height: 50vh;
+  margin: 20px 30px;
+  border: 2px solid rgb(205, 201, 201);
+  border-radius: 10px;
+}
+.cards-browser{
+  height: 30px;
+  display: flex;
+  align-items: center;
+  background-color: rgb(243, 242, 242);
+  border-radius: 10px;
+  position: sticky;
+  z-index: 2;
+
+}
+.cards-circle{
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: white;
+  margin: 3px;
+
+}
+
+.card-img{
+  width: 100%;
+  transition: all 10s ease;
+
+}
+.cards:hover .card-img{
+  transform: translateY(-100%);
+}
+
+/* -------------contact css-----  */
+.contact{
+  height: 100vh;
+  position: relative;
+}
+.contact-backgr{
+  width: 20px;
+  height: 100%;
+  background-color: rgb(255, 132, 0);
+  position: absolute;
+
+}
+.contact-wrapper{
+  padding: 50px;
+  display: flex;
+}
+.contact-title{
+  /* border: 2px solid red; */
+  font-size: 50PX;
+  width: 90%;
+
+}
+.contact-info-item{
+  /* border: 2px solid blue; */
+  display: flex;
+  align-items: center;
+  margin: 30px 0px;
+  font-size: 20px;
+  font-weight: bold;
+  width: 70%;
+  height: 50px;
+}
+
+.contact-icon{
+  width: 30px;
+  height: 30px;
+  margin-right: 20px;
+}
+
+.contact-description{
+  font-weight: bold;
+
+}
