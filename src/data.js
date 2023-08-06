@@ -1,8 +1,8 @@
 export const product = [
     {
         id: 1,
-        img: "https://assets.justinmind.com/wp-content/uploads/2022/06/website-template-justinmind-768x492.png",
-        link: "https://www.justinmind.com/design-templates/free-website"
+        img: "https://www.creative-tim.com/blog/content/images/wordpress/2017/05/opt_nuk_react_thumbnail.jpg",
+        link: "https://www.creative-tim.com/blog/web-design/top-react-js-free-templates-july-2019/"
     },
 
     {
@@ -12,12 +12,12 @@ export const product = [
     },
     {
         id: 3,
-        img: "https://www.webibazaar.com/blog/wp-content/uploads/2022/06/6006646-837x445.jpg",
-        link: "https://www.webibazaar.com/blog/best-free-website-templates/"
+        img: "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/624f1135bd83b9172f33b35a_6234f3abe2198da0233edb3b_1-developer-webflow-template.png",
+        link: "https://webflow.com/templates/html/developer-x-portfolio-website-template"
     },
     {
         id: 4,
-        img: "https://formoid.com/articles/data/upload/2018/08/ecommerce-websitetempl.jpg",
-        link: "https://formoid.com/articles/30-best-amazing-best-website-templates-collection-2713.html"
+        img: "https://miro.medium.com/v2/resize:fit:1123/1*6C702o6cpNyLm27WLdZyjg.png",
+        link: "https://codeburst.io/10-awesome-web-developer-portfolios-d266b32e6154"
     }
 ];

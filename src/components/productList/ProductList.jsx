@@ -6,8 +6,11 @@ const ProductList =() => {
     return (
         <div className="prod-list">
             <div className="prod-list-text">
-                <h1 className="prod-list-title"> creation and inspiration</h1>
-                <p className="prod-list-desc"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, eius dignissimos aspernatur sed dolore error, eligendi vero laudantium ducimus quis voluptatum, nihil excepturi adipisci vitae ab ullam ea architecto voluptatibus.</p>
+                <h1 className="prod-list-title"> Creation and Inspiration</h1>
+                <p className="prod-list-desc">Get inspired with these Web Developer Portfolios.
+Making your portfolio can be tough. Should it be simple or Complex? Single page or multiple? What should you showcase first?
+Stop stressing and take a look at these ten great examples of Web Developer Portfolios.
+ </p>
             </div>
 
             <div className="prod-list-items">
