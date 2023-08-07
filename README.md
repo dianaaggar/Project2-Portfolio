@@ -93,5 +93,5 @@ Getting Started:<br />
 Prerequisites
 vs code<br />
 Node.js and npm (Node Package Manager) installed on your Machine.<br />
-Install the required dependencies.Introduction<br />
+Install the required dependencies.<br />
 
