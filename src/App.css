@@ -260,7 +260,7 @@ h4{
 
 /* -------------contact css-----  */
 .contact{
-  height: 70vh;
+  height: 80vh;
   position: relative;
   background-color: rgba(236, 230, 230, 0.618)
 }
@@ -414,21 +414,26 @@ textarea{
   }
   .pict-movie{
     margin: 0px 10px;
-    border: 3px solid red;
+    border: 3px solid orange;
     width: 167px;
   
   }
 
   .currentProj{
-    font-size: 30px;
-    border: 2px solid blue;
-    margin-bottom: 30px;
+    font-size: 35px;
+    /* border: 2px solid blue; */
+    margin-bottom: 50px;
+    background-color: rgb(255, 132, 0); 
+    text-align: center;
+    color: black;
+    font-weight: bold;
   }
   
   /* -----browser */
 
   .navb{
-    border:  2px solid green;
+    /* border:  2px solid green; */
+    background-color: orange;
 
   }
   .MovieSearchInput {
@@ -450,7 +455,7 @@ textarea{
     font-weight: bold;
   }
   .MovieSearchSubmitButton:hover {
-    background-color: grey;
+    background-color: gray;
   }
 
   

@@ -4,7 +4,7 @@ import logo from '../images/logo.gif'
 function Navheader() {
   return (
     <>
-    <div className='currentProj'> current project template: example of Movies application </div>
+    <div className='currentProj'> Current Project template: Movies Application </div>
     <div className='header2'>
         <div className='logo'>
             <img src={logo} alt className='logo-img' />
