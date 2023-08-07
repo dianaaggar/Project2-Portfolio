@@ -13,7 +13,7 @@ const Contact = () => {
     const [subject, setSubject] = useState("");
     const [message, setMessage] = useState("");
 
-    // create function for form
+    // create function form
     const handleSubmit = (e) => {
         e.preventDefault();
         // Prevent refreshing the webpage
