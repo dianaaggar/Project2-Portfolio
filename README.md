@@ -78,7 +78,7 @@ Welcome to my personal portfolio website project built using React.js, HTML, and
 Features:
 -A brief introduction.
 -About Me: A section showcasing information about me, my skills, and my background.
--Projects: A collection of my past projects with descriptions and links.
+-Projects: A collection of some projects with links.
 -Contact: A contact form for visitors to reach out to me.
 an example of 
 -A movie application with API key you can searh any movies you want.
