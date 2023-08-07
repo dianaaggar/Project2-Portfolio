@@ -83,15 +83,15 @@ Features:
 -A movie application with API key you can searh any movies you want.<br />
 
 
-Technologies Used:
-React.js: A JavaScript library for building user interfaces.
-HTML: The standard markup language for creating web pages.
-CSS: The style sheet language used for describing the look and formatting of a document written in HTML.
+Technologies Used:<br />
+React.js: A JavaScript library for building user interfaces.<br />
+HTML: The standard markup language for creating web pages.<br />
+CSS: The style sheet language used for describing the look and formatting of a document written in HTML.<br />
 
 
-Getting Started:
+Getting Started:<br />
 Prerequisites
-vs code
-Node.js and npm (Node Package Manager) installed on your Machine.
-Install the required dependencies.Introduction
+vs code<br />
+Node.js and npm (Node Package Manager) installed on your Machine.<br />
+Install the required dependencies.Introduction<br />
 
