@@ -47,8 +47,8 @@ const Contact = () => {
                 </div>
                 <div className="contactRight">
                     <p className="contact-description">
-                        <b> What is your Project</b>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis ea perspiciatis impedit molestias mollitia corrupti excepturi fugiat quia qui? Minima quibusdam beatae esse ea nesciunt quis reiciendis saepe ipsum dignissimos?
+                         <b>What is your Project? Contact me and let discuss about your project, let do it today! </b>
+                        
                     </p>
                     <div className="infos">
                         <form onSubmit={handleSubmit}>
